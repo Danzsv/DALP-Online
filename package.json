@@ -1,0 +1,20 @@
+{
+  "name": "dalp-online",
+  "version": "1.0.0",
+  "description": "DALP Online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danzsv/DALP-Online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danzsv/DALP-Online/issues"
+  },
+  "homepage": "https://github.com/Danzsv/DALP-Online#readme"
+}
