@@ -1,4 +1,4 @@
-import { Schema, model, connect, Types } from "mongoose";
+import { Schema, model } from "mongoose";
 import MongooseDelete = require("mongoose-delete");
 import { Forum } from "../interfaces/forum.interface";
 
